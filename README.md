@@ -38,7 +38,7 @@ Kembali ke aplikasi termux dan pastikan berada pada folder `html-css-js-dasar` a
 ### `cd`
 ### `cd html-css-js-dasar`
 ### `git config --global user.name "your username"`
-### `git config --global user.email youremsil@gmail.com`
+### `git config --global user.email youremail@gmail.com`
 ### `git fetch`
 ### `git add *`
 
