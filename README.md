@@ -12,16 +12,16 @@ Instal aplikasi Acode [https://play.google.com/store/apps/details?id=com.foxdebu
 
 # How to collaborate with us 🤝
 Daftar akun github:
-### Buka `https://github.com` di browser web, lalu pilih `Daftar`.
-### Masukkan alamat email Anda.
-### Buat kata sandi untuk akun GitHub baru Anda, dan Masukkan nama pengguna juga. Selanjutnya, pilih apakah Anda ingin menerima pembaruan dan pengumuman melalui email, lalu pilih `Lanjutkan`.
-### Verifikasi akun Anda dengan memecahkan teka-teki. Pilih tombol `Mulai` Teka-teki untuk melakukannya, lalu ikuti perintah.
-### Setelah Anda memverifikasi akun Anda, pilih tombol `Buat akun`.
-### Selanjutnya, GitHub mengirimkan kode peluncuran ke alamat email Anda. Ketik kode peluncuran tersebut dalam dialog Masukkan kode, lalu tekan `Enter`.
-### GitHub mengajukan beberapa pertanyaan untuk membantu menyesuaikan pengalaman Anda. Pilih jawaban yang berlaku untuk Anda.
-### Di layar Tempat tim berkolaborasi dan mengirim, Anda dapat memilih apakah Anda ingin menggunakan akun Gratis atau akun Tim. Untuk memilih akun Gratis, pilih tombol `Lewati personalisasi`.
-### GitHub membuka halaman yang dipersonalisasi di browser Anda.
-### Selamat 🤝 Anda berhasil membuat akun GitHub Anda.
+Buka `https://github.com` di browser web, lalu pilih `Daftar`.
+Masukkan alamat email Anda.
+Buat kata sandi untuk akun GitHub baru Anda, dan Masukkan nama pengguna juga. Selanjutnya, pilih apakah Anda ingin menerima pembaruan dan pengumuman melalui email, lalu pilih `Lanjutkan`.
+Verifikasi akun Anda dengan memecahkan teka-teki. Pilih tombol `Mulai` Teka-teki untuk melakukannya, lalu ikuti perintah.
+Setelah Anda memverifikasi akun Anda, pilih tombol `Buat akun`.
+Selanjutnya, GitHub mengirimkan kode peluncuran ke alamat email Anda. Ketik kode peluncuran tersebut dalam dialog Masukkan kode, lalu tekan `Enter`.
+GitHub mengajukan beberapa pertanyaan untuk membantu menyesuaikan pengalaman Anda. Pilih jawaban yang berlaku untuk Anda.
+Di layar Tempat tim berkolaborasi dan mengirim, Anda dapat memilih apakah Anda ingin menggunakan akun Gratis atau akun Tim. Untuk memilih akun Gratis, pilih tombol `Lewati personalisasi`.
+GitHub membuka halaman yang dipersonalisasi di browser Anda.
+Selamat 🤝 Anda berhasil membuat akun GitHub Anda.
 
 Buka aplikasi termux yang telah terinstal dan lakukan langkah berikut:
 ### `apt update && apt upgrade`
